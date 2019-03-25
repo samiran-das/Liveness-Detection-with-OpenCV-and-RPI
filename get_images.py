@@ -2,6 +2,7 @@
 # Use the commands below
 # python gather_examples.py --input videos/real.mov --output dataset/real --detector face_detector --skip 1
 # python gather_examples.py --input videos/fake.mp4 --output dataset/fake --detector face_detector --skip 4
+# Samiran Das - github.com/samiran-das
 
 # import the necessary packages
 import numpy as np
