@@ -1,3 +1,5 @@
+# Samiran Das - github.com/samiran-das
+
 # import the necessary packages
 from keras.models import Sequential
 from keras.layers.normalization import BatchNormalization
@@ -58,3 +60,5 @@ class LivenessNet:
 
 		# return the constructed network architecture
 		return model
+	
+	# End of code
