@@ -89,5 +89,5 @@ while True:
 			print("[INFO] saved {} to disk".format(p))
 
 # do a bit of cleanup
-vs.release()
+vs.release() 
 cv2.destroyAllWindows()
